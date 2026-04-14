@@ -1,6 +1,8 @@
-# Homework 1 Example Repo - Bookstore Database + Python CLI
+# Jiayue Shi's Assignment 6 Repo - Bookstore Database + Python CLI
 
-This example creates a small bookstore database in SQLite and then uses Python to interact with it through a command-line interface.
+This assignment creates a small bookstore database in SQLite and then uses Python to interact with it through a command-line interface.
+
+## Name: Jiayue Shi
 
 ## Files
 
@@ -8,6 +10,9 @@ This example creates a small bookstore database in SQLite and then uses Python t
 - `insertRows.sql` - inserts sample categories and books
 - `bookstore_cli.py` - Python CRUD program
 - `bookstore.db` - database file you will create by running the commands below
+
+## Short description of my database:
+My bookstore is centered around music-related books, including biographies of famous musicians, instrument learning books, music theory books and score collections. It is designed for people who enjoy music, are learning an instrument, or want to study music more seriously. This program enables users to view categories and books, search by title or author, and perform basic SQL operations in a simple CLI system.
 
 ## Create the database
 
