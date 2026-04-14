@@ -42,6 +42,6 @@ python3 bookstore_cli.py
 
 ## Notes
 
-- This example uses parameterized queries in Python.
+- This project uses parameterized queries in Python.
 - The `image` field stores the filename only.
 - The actual images can be reused later in the Flask web app.
